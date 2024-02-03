@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hesbon Makori
 
 I'm Hesbon Makori from Nairobi-Kenya, I am an Experienced Research Trainer, Consultant and Data Analyst. 
 For Data Analysis, I really enjoy working with Ms Excel, SPSS, STATA, PowerBI, SQL, Python, R, Tableau, KNIME.
