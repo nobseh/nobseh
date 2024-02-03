@@ -27,6 +27,28 @@ For Data Analysis, I really enjoy working with Ms Excel, SPSS, STATA, PowerBI, S
 - Machine Learning
 - Linear Algebra and Calculus
 
+### Hard Skills
+- Math (statistics and probability)
+- Logic and analysis
+- Relational databases (MySQL)
+- Problem-solving and troubleshooting
+- Pattern and trend identification
+- Data mining and data QA
+- Database design and management
+- SharePoint and advanced Microsoft Excel functions
+- Tableau and Qlik
+- Business intelligence (BI)
+- Programming languages
+- Risk management
+- System administration
+- Quantitative methods
+- Data warehousing
+- Regression analysis
+- Data science research methods
+- Experimental design & analysis
+- Tech support
+- Survey creation
+
 
 <!--
 **nobseh/nobseh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
