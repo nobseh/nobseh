@@ -3,15 +3,30 @@
 I'm Hesbon Makori from Nairobi-Kenya, I am an Experienced Research Trainer, Consultant and Data Analyst. 
 For Data Analysis, I really enjoy working with Ms Excel, SPSS, STATA, PowerBI, SQL, Python, R, Tableau, KNIME.
 
-### Skills
-- Data Analysis
+### Core Qualifications
+- Compiling data
+- Industry report reading
+- Project management
+- Critical thinking
+- Business intelligence systems
+- Data visualization
+- Attention to detail
+- Problem-solving
+
+
+### Technical Skills
+- Structured Query Language (SQL)
+- Microsoft Excel
+- Statatistical Packages for Social Science (SPSS)
 - STATA
-- SPSS
-- Excel
+- KNIME
+- PowerBI
+- MATLAB
 - Python
-- KNIME Analytics
-- Tableau
-- R 
+- SQL and NoSQL
+- Machine Learning
+- Linear Algebra and Calculus
+
 
 <!--
 **nobseh/nobseh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
