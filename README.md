@@ -3,16 +3,19 @@
 I'm Hesbon Makori from Nairobi-Kenya, I am an Experienced Research Trainer, Consultant and Data Analyst. 
 For Data Analysis, I really enjoy working with Ms Excel, SPSS, STATA, PowerBI, SQL, Python, R, Tableau, KNIME.
 
-### Core Qualifications
-- Compiling data
-- Industry report reading
-- Project management
+### Soft Skills
+- Communication and public speaking
+- Clear writing and report writing
 - Critical thinking
-- Business intelligence systems
-- Data visualization
 - Attention to detail
-- Problem-solving
-
+- Risk assessment
+- Training and instructing
+- Teamwork & collaboration
+- Creativity
+- Leadership
+- Project management
+- Decision-making
+- Time management
 
 ### Technical Skills
 - Structured Query Language (SQL)
@@ -24,8 +27,6 @@ For Data Analysis, I really enjoy working with Ms Excel, SPSS, STATA, PowerBI, S
 - MATLAB
 - Python
 - SQL and NoSQL
-- Machine Learning
-- Linear Algebra and Calculus
 
 ### Hard Skills
 - Math (statistics and probability)
@@ -42,10 +43,10 @@ For Data Analysis, I really enjoy working with Ms Excel, SPSS, STATA, PowerBI, S
 - Risk management
 - System administration
 - Quantitative methods
-- Data warehousing
 - Regression analysis
 - Data science research methods
 - Experimental design & analysis
+- Data visualization
 - Tech support
 - Survey creation
 
